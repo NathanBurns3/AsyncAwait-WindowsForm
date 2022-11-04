@@ -1,0 +1,17 @@
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\bin\Debug\net6.0-windows\AsyncAwaitAssignment.exe
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\bin\Debug\net6.0-windows\AsyncAwaitAssignment.deps.json
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\bin\Debug\net6.0-windows\AsyncAwaitAssignment.runtimeconfig.json
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\bin\Debug\net6.0-windows\AsyncAwaitAssignment.dll
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\bin\Debug\net6.0-windows\AsyncAwaitAssignment.pdb
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.csproj.AssemblyReference.cache
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.Form1.resources
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.csproj.GenerateResource.cache
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.AssemblyInfoInputs.cache
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.AssemblyInfo.cs
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.dll
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\refint\AsyncAwaitAssignment.dll
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.pdb
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\AsyncAwaitAssignment.genruntimeconfig.cache
+C:\Users\nathanburns\source\repos\AsyncAwaitAssignment\AsyncAwaitAssignment\obj\Debug\net6.0-windows\ref\AsyncAwaitAssignment.dll
